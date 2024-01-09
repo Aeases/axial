@@ -1,0 +1,18 @@
+{
+  "options.off": "§cNE",
+  "options.on": "§aANO",
+  "options.difficulty.peaceful": "§bMírumilovná",
+  "options.difficulty.easy": "§aLehká",
+  "options.difficulty.normal": "§eNormální",
+  "options.difficulty.hard": "§cTěžká",
+  "options.clouds.fancy": "§aPěkné",
+  "options.clouds.fast": "§eRychlé",
+  "options.graphics.fabulous": "§dSkvostná",
+  "options.graphics.fancy": "§aPěkná",
+  "options.graphics.fast": "§eRychlá",
+  "options.narrator.all": "§aPředčítá vše",
+  "options.narrator.chat": "§aPředčítá chat",
+  "options.narrator.system": "§aPředčítá systém",
+  "options.narrator.notavailable": "§aNedostupné",
+  "options.narrator.off": "§cNE"
+}

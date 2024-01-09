@@ -1,0 +1,12 @@
+name = "Axial"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1589564168679d5277fd6103954681906dae90799c44213fc517cf2244172b29"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"

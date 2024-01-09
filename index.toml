@@ -1,0 +1,1657 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/aether-client.toml"
+hash = "e1e7c5c228097d23b8158e51750dc66845ca0b8bab318e72c56c4b4b3b4e9cdb"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "37784a9a0aedf5fec89afefc68fd7c7e870e275b43c05fdaff424904a253cabc"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "a1b7559af71ae8a832e77770309baa48a33fcd4bbe6a620cc994b6a96f7864e4"
+
+[[files]]
+file = "config/blue_skies-client.toml"
+hash = "7d73571698274e746d34de9c091d60e88e5d0e2ab979fd424c16393d3f701170"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "2bd746181ed36eb0b6ad96d711e34072729c4b016da5eb1b295dfddeef67895b"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "4dd995eb1e1724d62f4fcde9baca3d65c12991534b9bf414eb1a4073c1c4cb63"
+
+[[files]]
+file = "config/fancymenu/customization/optionsmenu.txt"
+hash = "d2879096854bddca2f6ee258f39d0e1ffd91f50fdad1d95f1452948b223e3dc5"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "c496b95c610d227931be1d416ad5dbce69e3d3d3fd31abb8ef13c19d52cbbcff"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "7ffa136ebb490344a9bded72bd9eab9d1838c2e343cefd89a682b219e756bbbd"
+
+[[files]]
+file = "config/roughlyenoughitems/hints.json"
+hash = "a0f88825fe34dba75bd11f192bd362fb3df9b09bf746c32c93b70a3eeae607eb"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin.properties"
+hash = "a8705723366e6148779a1c5b5dc91ef0be31362ef2cfba32d5244069851b480b"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin_double.properties"
+hash = "b858e1a4de0ac328537fcbc0d90a421ed96862774dca3a04890de7a6870f08ef"
+
+[[files]]
+file = "config/tetra.toml"
+hash = "0880019f48057a5061dd0ae090fc661049d9303a3f1237fce9325752fde64412"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "3a13ebb041ab3c9f28a56718a292a6d7570ee977791e1c1860d00503f8cb1263"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "12d59cbd75c19a2bfb7f837f161f762e6136e834b07d3c3c5bba806a66e34bc2"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "d853df22067d21023346b39e3c993a8986009807ee0c9770ebecc6cd47bd3688"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "d1f01c1b88e9f0273da1a90cd0c5d0ff62c2313b7ef4c901993aa8cafa84e5d6"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "009c1d37841ed2b9f68569975d978c732213561af4328a9af0ea92d46d8f52b2"
+
+[[files]]
+file = "configureddefaults/README.md"
+hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/attributes.png"
+hash = "c4dc8148c34f1602d1e9b8a81333f2175883f2da8ab1ab2cf2e3160e7614f8a3"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/book/ench_info_scn.png"
+hash = "31956991ceb6e4fd906c885ee16521444dfd6896bf9d1b4f2b46c815af678729"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/book/enchantments_window.png"
+hash = "519ad5d16b9a73ff4543f5a413295a56fccea8aac6f0075522f7e31a9e0818d3"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/book/power_slider.png"
+hash = "c5f735ce8b48921807ffa2c1ea43d26a3ddaadd45fc4f885d763171b8b98b86c"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/book/question_mark.png"
+hash = "fabd5f4615e2c181115aa3cae99d7d3b563bf537b98a7616a32ebeab11166bca"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/book/reforge_menu.png"
+hash = "0d56512eb2a921123596fd33d7a61a55baf408d6af43099cd81917013f351fc3"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/book/reforge_slots.png"
+hash = "5844c332576a28d8082c1010da625e64b8cc3083c1c154fc9425eed866c5145d"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/book/slot_selector.png"
+hash = "4580328360f20e9a58e018c8b25cd6ea6a8e0d6bb0fcc5c5346caabbc166bd82"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/book/weights.png"
+hash = "f7a0b1546a15deacbd35b4329810c1da0595aa61c3c18f14e6fbfbc2f019b75d"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/enchanting_info.png"
+hash = "31aece400b684e614309fae2d71ca857b7412687140cfe06654278835716063e"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/enchanting_jei.png"
+hash = "48d0e508f878f578bf3f72e48acb5cdc8037abb8c669e1955db563f077f5614b"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/enchanting_table.png"
+hash = "c1fa7750ee2e2e5d4e79d0b9e493fd7ba5ccb4763d5c5ae2ea927bbeea0b460b"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/fletching_table.png"
+hash = "53d55cc698032f5c72e84a7d37b98d0c89a0cbdd650de665cea174748fe07af8"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/gem_cutting.png"
+hash = "61693b319db8033530be43876983a368422bf7a459bcc62e7b52b3dd41184b86"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/library.png"
+hash = "2c6211e63e6cf4fff5dd60899fa38fb59a86116d396db9c14a3c6bb5d3f09594"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/reforge.png"
+hash = "361c94350a6f355c4b2b3900042948e2da277ebd79e36b54c5584cb5fd6e62c1"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/salvage.png"
+hash = "867e0e12deba64e781bcb416dec8e4ddb11dc633d1b38dc995bdf6b47beb8424"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/salvage_jei.png"
+hash = "f44031e1562e14c89c595bff996a98c86791a8e2d4ef4d4778f9f8fe2989afc8"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/socket.png"
+hash = "f64de40fb2630f9b2fbda90f065761f5199e8453171328257ddcfb7f3654390f"
+
+[[files]]
+file = "kubejs/assets/apotheosis/textures/gui/spawner_jei.png"
+hash = "08766e208601bcfe9497da8f3d6286503f6cbbb3254fb6e42125b06ba706f6fd"
+
+[[files]]
+file = "kubejs/assets/appleskin/textures/icons.png"
+hash = "8120f0e36c0e9365b4008a3414597c8b932d2f0b59fded466e870d13cf7cd765"
+
+[[files]]
+file = "kubejs/assets/cosmeticarmorreworked/textures/gui/cosarmorinventory.png"
+hash = "9a18702e204dcedbbaaf41cbd9d628dd59e4833af711857fac398c1626a9570a"
+
+[[files]]
+file = "kubejs/assets/curios/textures/gui/inventory.png"
+hash = "213b1a381d43291d9b83e46b792f59f45277874f1903a0deb71d30f3f3583e55"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/empty_back_slot.png"
+hash = "d7716c7640be10bbe0a39329253d338c328213ce190b2ccf991fb3352de7c020"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/empty_belt_slot.png"
+hash = "ec72993146f790fe30beeee42689dc837f1066e561116e155a019820b90e2dfd"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/empty_body_slot.png"
+hash = "745c08c0ac011077887214022810d9b951a113e0fe13a112d9f45ba709533adf"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/empty_bracelet_slot.png"
+hash = "4b3994247a3c3c79bb1e90019dc7008249e767aa7c5e6aacd3894298108fb5ec"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/empty_charm_slot.png"
+hash = "f7ed2fd8223e6aed9a1bdc3b0932a85bb2f0a8cebc06655083d964c43d83af96"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/empty_cosmetic_slot.png"
+hash = "c920cfc090200643a72895bb325b1f482f75e29e5bc8867293d23e44dac86fec"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/empty_curio_slot.png"
+hash = "ad3227fabada4fa0902881ee9327b36dddaf2dcdc022f41e826b748dd93b960d"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/empty_hands_slot.png"
+hash = "df3c64d9dc06b1e3511f0b949b070576d14770355427e826dcd1900d422f8741"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/empty_head_slot.png"
+hash = "a9fec6b8ba8a259fe6a90b61ffbe49921363fcf520c3afedd33dc3d0ca6cf032"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/empty_necklace_slot.png"
+hash = "8cbe4d18dee278a74fe979268b95e76659fc21979d7aff5be886c700d63f838e"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/empty_ring_slot.png"
+hash = "12feaabf4eecdf2d773074f5da68209a487a55a908f8cfd974472cb6387d48b6"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/blank.png"
+hash = "dbbfdf05910020cf6ebf0a689c825f6611da10cba53020999ce6900983d790d6"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/blank1.png"
+hash = "dd605cfe9fe9e3af3b1de81c9c19e72b1629b4a24149d0e87e4442491ad679f3"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/blank2.png"
+hash = "8d14730547d420e77e935592866fd4349658744ab1095cc2b0d9f62815ac4aeb"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/blank3.png"
+hash = "f5d2c50cee33fa6d554c7772d2d1448c9a10cde5772c63c2c388f255c1c4f598"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/arrow_redo.png"
+hash = "69bb7963020ed808b6bd06477a16afb05bac726da6d239b9f364ca27b6eeab25"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/arrow_undo.png"
+hash = "13c94b2d907e8800f1cbc82d29fb08e2bb1a5c9f28dff2cc0d10fd912b3c63b9"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/arrows.png"
+hash = "ee30487ed91bc9514adf746cd665327561437a0ad29ea17866c4d2d89f3376be"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/background_color_button.png"
+hash = "e81fc2043e824b8efe692291ae893a1d6bdfc7d2084fd1fd0518ff1ff756ff38"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/cancel_button.png"
+hash = "00589fffc00eaeb29e6e4eb6126ad5b17ec8213b890f482000b33cbdc138c1b1"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/checkbox.png"
+hash = "948c5a8b22cd043a85fac61a54b44067bafcc7b043aa174614955aaf0648f019"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/color_0.png"
+hash = "cb38a54776192997400959086ad902e5c5112f90f3f0c50a66d77e7f92316312"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/color_1.png"
+hash = "40ab74aa358a2c0525df72f4a65482cb3757a9f5ba92d85148d8fe2bb486897b"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/color_2.png"
+hash = "e7603c9627fc5e6483a77db9b5346ee2278fddf0b283815646addce81b1daebd"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/confirm_button.png"
+hash = "a8925a4bd8c8b1e28e3fe94fa87b8fab0c3884013a2447336764b762ba667510"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/copy_icon.png"
+hash = "d035b6c3b1d017db43b68cdd1d880dc291be06744652eed336e9553e515adb88"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/disabled.png"
+hash = "4f564196ea7221c0c59203ee713601aa7f5f262cc7a3c2e2ac91b7389ba13c09"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/discord_button.png"
+hash = "8fb855f5ff0461d408cf35c3b5b5723dc734ae82872c886f5bdbf61b7d4a3d95"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/dragon_altar_warning.png"
+hash = "49a83dcdca6544f061a0425f9b7293caf59d179ac1d0ca354653bc431a451a00"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/dragon_claws.png"
+hash = "c1ee60b7637661a0b6cb3c54daa2342b1ad0ac6911ba855433fefd6aaaa79c24"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/dragon_claws_axe.png"
+hash = "f1ac1ca1ee1bd58e17ff4153493b104eb92bfedec029205d18593de61d439d50"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/dragon_claws_button.png"
+hash = "7497aab2db0c885c9f34ddd0d347674917c6d479c34e751e63271a080b531fcd"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/dragon_claws_pickaxe.png"
+hash = "4f529323557b90a74ac6635a723f5e0c260cef5c99ffe49462f83f050439b4d8"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/dragon_claws_shovel.png"
+hash = "dcec9f4457a85975cdebccd89f53b0b4ae23f2c73e11b4d247828929a7186f2f"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/dragon_claws_sword.png"
+hash = "c08d03920c7e511ca136772dea4b68f2c8c1dc42b8c21780c789be858737f5d5"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/dragon_claws_tetris.png"
+hash = "ae74c7f16a09b5d3d38a75cf7930304afc576cc80d1a8aff7bc30720755aae77"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/dragon_hud.png"
+hash = "9913cbf97098fda76c6319cddc2f37a7b7e4ba75c191f00439a6ea1865dbfa66"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/dragon_inventory.png"
+hash = "a797ac2603cc30a46b21c6b664cb227addda1bd7160cd997b7e252594f93ec2b"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/help_button.png"
+hash = "b2b0cc852728c936940d56041a40d7c27e12827b4a9c92a658d0f7046f55befc"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/inventory_button.png"
+hash = "9ba96086369c653e427134018ee3c35a2d8d27af5f415f7aa0986de661738f9a"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/magic_interface.png"
+hash = "9dd067962e82db305eb5dce77850e8be39cbb63fa07d498c0d9c32e2c1803ded"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/magic_tips_0.png"
+hash = "a226d604ae3a34b50492a056812ad75058882d711d09d8f820d2e79dc773f92e"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/magic_tips_1.png"
+hash = "a226d604ae3a34b50492a056812ad75058882d711d09d8f820d2e79dc773f92e"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/random_icon.png"
+hash = "a13b49b526a9fe4b9574c16f4fbdd9d7933345eb94207eccc599d93c70254bda"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/reset_button.png"
+hash = "8da29ed8bde727cf735f60862661109190517c3f833cdcf78e5d12f56be521b8"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/reset_icon.png"
+hash = "8ad452981920bcafc56097ae1911d1f21ab814f268151bed135294b39473baaf"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/reset_position_button.png"
+hash = "02fe900be412d8f5e367e54bd56af9c2019a76d8602b4910e41b466a5cb4f185"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/saturation.png"
+hash = "123a0c45433129e2e19cbce73a2c79c6da4e268e9b377f144ce21e7499ad98d9"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/save_icon.png"
+hash = "108c9ed206e4b498dd48906ec3ed59e43afdcad94c1baa3538260c88503c49ba"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/screenshot_icon.png"
+hash = "33a877b56ce3a0cb4af021def874ca2a00c0dd7e26981db04c0d9b74d744a7e9"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/settings_button.png"
+hash = "609994c801cbde90d6de0f5dadcc4cec2fbba60ecf330b4a0e32a78ef03a8e33"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/skin_interface.png"
+hash = "e90923b0f8550da25a243e52876a6ac16d2943fc1cec66e0a8e84273978d7570"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/sorting_button.png"
+hash = "ae6ae7e6232bc86bb5f731ec53325f73e5a1d8e34ca59316a76c4d9b4bf80113"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/source_of_magic/source_of_magic_ui.png"
+hash = "0726503874f5b22b79d92d9e832770fa83192151fd3ebc7258ebc54d61b9050a"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/spin_cooldown.png"
+hash = "1a5263649bebe80a41cbcd94fc09c490d3c1264e471f389b11e11652ebce82fc"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/textbox.png"
+hash = "81eda4c629a5fdafd9b13d5b9f3f8bdb0776c6eae75dd214a66d774aa3cbd9f3"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/unchecked.png"
+hash = "c8e60f2bb0a9d27e452eac0c1a180ae0eaf5ee72ad0459ca7716da460c4efa50"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/widget_bars.png"
+hash = "21152a6da61d52a4ace6d4da1f0ec2b39d9046eefb515a55a4aab947c7dea476"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/widgets.png"
+hash = "bae88845cb8ebe3345fe00c6f69df13fe8cba46ca7df7ee5f9fe2a5cd771a8c3"
+
+[[files]]
+file = "kubejs/assets/dragonsurvival/textures/gui/wiki_button.png"
+hash = "b468f02f7e3eeb7f237ceccb530bbf5d4221297f8f11a6cfe62d02dd12d06c40"
+
+[[files]]
+file = "kubejs/assets/extremesoundmuffler/lang/en_us.json"
+hash = "948dd6fa38f4eb3ed75bb3a515771d6f9009fc86034457f674dea3fab0c8d47b"
+
+[[files]]
+file = "kubejs/assets/extremesoundmuffler/lang/fr_fr.json"
+hash = "a97f605320fe014cf1d7a905d61d579c51de3036cf0ae197d61128357cc1c3b0"
+
+[[files]]
+file = "kubejs/assets/extremesoundmuffler/lang/pt_br.json"
+hash = "652a0e0cafda2487a6ab03fb812fe418f4ab9ecb34e27316283d66d824c85297"
+
+[[files]]
+file = "kubejs/assets/extremesoundmuffler/textures/gui/sm_gui.png"
+hash = "35a7374d3bd70772a1b11dacca1a86a6faf1464152b6754eb22b922285f35eed"
+
+[[files]]
+file = "kubejs/assets/extremesoundmuffler/textures/gui/sm_gui_dark.png"
+hash = "5bc0fc51022605959baaf888b921ed5cac23371d0dea6a5feff4d30df3334eb8"
+
+[[files]]
+file = "kubejs/assets/inventorio/textures/gui/empty/axe.png"
+hash = "111afc28adbf48886628008acea15cb7ccd115c18de60327cbda48a1eb343e94"
+
+[[files]]
+file = "kubejs/assets/inventorio/textures/gui/empty/hoe.png"
+hash = "dd094f072f6e637827553b9620ab6e4b6a3de1a05f2ef28a1fa7dbb82be76fd0"
+
+[[files]]
+file = "kubejs/assets/inventorio/textures/gui/empty/pickaxe.png"
+hash = "4c94a0b64bc189c1ad10753903d7e59d41dcb74473cae273b887a6b6841a4be6"
+
+[[files]]
+file = "kubejs/assets/inventorio/textures/gui/empty/shovel.png"
+hash = "dd9d3094fafa4cc88e9bb0e32f00afcd898e7ab171411352355d705c82b946be"
+
+[[files]]
+file = "kubejs/assets/inventorio/textures/gui/empty/sword.png"
+hash = "98a77667e215620996f704922db5e24fd588937679b86d86e74945a692546ae1"
+
+[[files]]
+file = "kubejs/assets/inventorio/textures/gui/player_inventory.png"
+hash = "d59f376b120d29a6aba9d338b813f200bf8fbd4816e795a5e828b426df7f68ad"
+
+[[files]]
+file = "kubejs/assets/inventorio/textures/gui/player_inventory_dark.png"
+hash = "d59f376b120d29a6aba9d338b813f200bf8fbd4816e795a5e828b426df7f68ad"
+
+[[files]]
+file = "kubejs/assets/inventorio/textures/gui/widgets.png"
+hash = "febf4dfb73d89c8c6f8dae94d511436566c1db589e0289cf118a8d0def7de704"
+
+[[files]]
+file = "kubejs/assets/inventorio/textures/gui/widgets_dark.png"
+hash = "febf4dfb73d89c8c6f8dae94d511436566c1db589e0289cf118a8d0def7de704"
+
+[[files]]
+file = "kubejs/assets/jobsaddon/textures/gui/icons.png"
+hash = "c8a6873fa2e860f224b1e48763287cb2c5b898f048bf79d4820bc7bc3cbb4a00"
+
+[[files]]
+file = "kubejs/assets/jobsaddon/textures/gui/job_background.png"
+hash = "f1c1ed0d022f1eecc7a2197db54347357bc8227e1725154924bfe917f6664b5a"
+
+[[files]]
+file = "kubejs/assets/jobsaddon/textures/gui/job_buttons.png"
+hash = "74b0d630925274062d5e05a4127a1fdc64b3f07dda368968c50477faabea7aae"
+
+[[files]]
+file = "kubejs/assets/jobsaddon/textures/gui/job_tab_icon.png"
+hash = "fe60ea0dbea6b8ee56067a172022ed87a9250174ed3bd087936218b3701c84da"
+
+[[files]]
+file = "kubejs/assets/jobsaddon/textures/gui/quit_job_button.png"
+hash = "e3e56deaa9e93cc1c4aba712925896308a901c14566f984bace8df7101cd8339"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/languagereload/textures/gui/language_selection.png"
+hash = "dbb8e981eabdaa0d3935e94af16b4c04abfa8a9edc1375cb31514cece0387ea8"
+
+[[files]]
+file = "kubejs/assets/levelz/textures/gui/bag_tab_icon.png"
+hash = "94d1a2824e7d4b527a8e9a16783ba4818a84f2414e72182fb2c4f05c8e8dd7bd"
+
+[[files]]
+file = "kubejs/assets/levelz/textures/gui/icons.png"
+hash = "48a855d14159ecb196c71c8675dae8740c0266196fb2e397a2822e8ce8938e85"
+
+[[files]]
+file = "kubejs/assets/levelz/textures/gui/skill_background.png"
+hash = "f1c1ed0d022f1eecc7a2197db54347357bc8227e1725154924bfe917f6664b5a"
+
+[[files]]
+file = "kubejs/assets/levelz/textures/gui/skill_info_background.png"
+hash = "3fe15fb53db72dde63d843072cd33a44321553a0b4aece66ffcb8d5ef53e8c33"
+
+[[files]]
+file = "kubejs/assets/levelz/textures/gui/skill_tab_icon.png"
+hash = "0720b1524613e07a31ec161834291e50a1150bcf02e411dff8da8b793fbe383f"
+
+[[files]]
+file = "kubejs/assets/libz/textures/gui/icons.png"
+hash = "1805b53771f63e3d77e23af8d8943ad39aca1fe18d267ff591f814947c75fdd9"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/cs_cz.json"
+hash = "8695d171236a5e4d560bffb52bd51c00b63835f567e281fa50424c2e05b365a9"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/de_de.json"
+hash = "7f2db043d855b2fba72ccfbc56bae177927c756c9446396b5aa3d99d409728ec"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/en_gb.json"
+hash = "dfae750b89773af34090020d0421e5861399b7d5cda8d91a7b13ea8ca2866f77"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/en_us.json"
+hash = "dfae750b89773af34090020d0421e5861399b7d5cda8d91a7b13ea8ca2866f77"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/es_es.json"
+hash = "78d4ea23fba35f8a7de98b2f6f344416c177257f2e5d2484d8cd56b62c988063"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/fa_ir.json"
+hash = "38a962ceef9cd2572149135f53f4e830e851876af3084e5a24e73092ddce8812"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/fr_fr.json"
+hash = "5059fae19b79a10c274dd1d9d1dec8f6cefdd36c21cd7a877dc0a0144b4b186f"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/pl_pl.json"
+hash = "42ee1c4bf9ca13ca4b563fd310f59f0a1ec95bb08ad2b2fdb38ef28b84de1e56"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/tok.json"
+hash = "5962e8d5132e8ef1f73e49508761ebb35d6089550712b7aab6831a572cabf8ff"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/uk_ua.json"
+hash = "84150a5f1fb4b930d63f65501dd9e0ac7bfecb97da2c695b1563e57232c2e8bd"
+
+[[files]]
+file = "kubejs/assets/minecraft/shaders/core/rendertype_text.fsh"
+hash = "d00a898d17b5ecd67438c5a6b5f79b034797b65c5e384fc8580aae3667123cfc"
+
+[[files]]
+file = "kubejs/assets/minecraft/shaders/core/rendertype_text_intensity.fsh"
+hash = "5c4c9dc689161e660711ed92d07179b869cb067a1de55746163faab65aeba361"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/accessibility.png"
+hash = "56af9622cefda0ab2e92ff889c37bf8b999c0e1ec41004ef16acb2d838cd6e3c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/advancements/tabs.png"
+hash = "33a8f4d86861d5a21d7401bb8ce50bbcf0505397ab362c667a3dae522f289e75"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/advancements/widgets.png"
+hash = "7d7adbf7eed5f38a711b669587c024c20610c5d563375b98c32135cba33b772d"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/advancements/window.png"
+hash = "d033b6a8379f225ca23363f6eb846a88808789748efc4d384622a975fd4b8aeb"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/bars.png"
+hash = "119d7b8fada1eaa15c83bbfd7cbf624cc76e33a1c60a32cedfa9f647aa3b477b"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/anvil.png"
+hash = "d4523596d688d2cbbe3341bda68a62cef43c483ef80479260fa63ceddee71f5b"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/beacon.png"
+hash = "2a68a0caf13bb9fda74ac6435b2c4181c108951f27aaebbca06c268390f96c3a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/blast_furnace.png"
+hash = "7e56895db5c1a264b0bc3e7672ba10a072bde920f402edc45d47bde8f819d325"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/brewing_stand.png"
+hash = "5ce3507a8fe53fe871b705d51ebb75e43ddb557ca2cb935ece26b6efde48829b"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/bundle.png"
+hash = "8cb63a864b61133917ce1b48027311a61b046c01b7d4ffacee8f2f5499457f44"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/cartography_table.png"
+hash = "22d4a3d9cbabdef8fc18ea13e5eb6c7745db9c10f4f94b544d2bbbea4ad43af9"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/crafting_table.png"
+hash = "691917ca05bfe58e87eaa991e1d0077d750a12f797ee5510b73e4af8aaa0e52e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+hash = "8a649b6785b9f54d5e7d0f94cefddfcf5e587c789d7e13e38bb380540aa72fb2"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+hash = "271caa7d54996547ebc21ca48433a83cde1d4a51cafb3bd3cf1e196b9935212f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+hash = "6f90bf84009f29a348bbab4c09aae4dec44d4452b9c00910b73c46f2ae12ebed"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/creative_inventory/tabs.png"
+hash = "51b0a454f802337b317ccbcb329bd93511a75ad5d5655be7d75357151246cecb"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/dispenser.png"
+hash = "29f740a6a48dfd2ed9ef1c5494da243f8c9603af64c370c119e075f22e1606d8"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/enchanting_table.png"
+hash = "7920b1325cfcd7a9934cccc09e215857f79193f859e019df17a0873d349825bb"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/furnace.png"
+hash = "12741267674e68ae6b09bfdd6d16de2b4721239c752359044050dd2b0c765f98"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/gamemode_switcher.png"
+hash = "4bb04bc7c77fc4f79e5c1744f5265a2c4ac00128222ec01827555b77085e9de4"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/generic_54.png"
+hash = "d14965492d39c7eecb2969edb1993cc2e0d892ad6f9ac3a4cea876e9bffe76f5"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/grindstone.png"
+hash = "90c6136eaa4004990b55266d4adfec88525ac4375071503af2721b65428857d5"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/hopper.png"
+hash = "931b84da6f0a63fb029c86d2b5fc97957a0127749ba122ea76ec99992badaddf"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/horse.png"
+hash = "22f826cbd827d0799ad738425c0868847e99a69bfb2bee428b6325a868fe451c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/inventory.png"
+hash = "7f057044fc9b2dc1e3aa89fb3f64545d4aefba95695836b627df703312c2949d"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/legacy_smithing.png"
+hash = "114e7ad08bc09e40b19f3fb7e45ac4235f3b2c43111226eb9525b06cec73343b"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/loom.png"
+hash = "adabbdf869606055985c2c68fa4cc16319986566a1e5829e0a2793855654f184"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/shulker_box.png"
+hash = "ba654f024ac34d0b534393b342db72f802979b78762cdaae5894d987bdfa08b3"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/smithing.png"
+hash = "f96edc548a2da3df2d672d9adb7980381fc643fd7b421549df22d470ffef24a5"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/smoker.png"
+hash = "9632b6f4cf718b56db86b07cfb14adcb6801474795e350d7a9d1d7c82c3966e2"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/stonecutter.png"
+hash = "30a19b549751ebde17f47702dfc6c9852e519448900dccc190aad753cd0426ea"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/villager2.png"
+hash = "0e267975024198ddfad9b0f3617765823c9fcf827a627c7ce1d505473fb86f27"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/icons.png"
+hash = "f69d06357e744ab03e12c10bf8f21bed767eecbae5b0e869c8d13e3ab6ca7ca0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/recipe_book.png"
+hash = "3caa1ab19955222f8aa6eda87f3dc3465b0ca8b810b0f3c57c5ddff81f5cfcd0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/recipe_button.png"
+hash = "091342e1c14690939b03df1f17fdfe7bbe7b82ebeec177f6f48ced98c5fd2f92"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/report_button.png"
+hash = "7a9ebf391603ddc82dfc3b6e70b4e8030aaaafc792ff01f48da30e3157f347d6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/resource_packs.png"
+hash = "8fc4db2c7466f117465508381d9a969fdc762708e595e4acac23e9090eb26dff"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/server_selection.png"
+hash = "5264489ecf8e4a7c8a47bca0025a2e87b998facbedb107e55e900f9bb0b42e0d"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/slider.png"
+hash = "dd10d68560abf353f96a157a7e60a0fac6993e4cf95c8e61d5d50d2e181f572f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/social_interactions.png"
+hash = "8e70d46b1f8a865022b287620293da7c6c04bcc9ce8192404b2440a67ee40af0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "60d32432eb44fad490793415e8b069b16721bf7e20e38caad750a299d2f24b47"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "7c29cc548e94bc18b86394f8db99898390731b091ba716fefadd08995ed2713d"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "7f399f8297cf1db6c3e3f14e88521a9e56b87dfe7d7ae1f9273e1cfea014e717"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "70e35718f0ec16f4377ea9771a3bbdb029bcf5f396d4f210c06b01832604f29a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "0deb8010e2388f93819516c12220584bcfe58a4bb7de25ac635f6acb484169d6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "ebf80a71dce9b8f9a2548820193a53d549b12ab76fe2fad5b322b16d2ca3cf49"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
+hash = "1ae6b62d903b450025091bab9b11f79581e8d4e1f7b3a3b646d143fd4cad31a0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/toasts.png"
+hash = "87326bb30f6ba8a4062fc681f47e36682e4aa3c67da0f81830ce6452ba69f9c1"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/widgets.png"
+hash = "93e201c804c03600424b98025a47c931c9fbb330886a8f4788ee12b55e5b43bd"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/world_selection.png"
+hash = "797edba39d44b814515de492bc17a42f13a2dd0299d8c383f19e281716dd7d30"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_armor_slot_boots.png"
+hash = "e8bcc8ad6f325e4b04a713c1539a69c93b7f0292e08d4ae879360818addf1347"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_armor_slot_chestplate.png"
+hash = "b1f70bcbbc74fe94ce7265f5aa2c124a28094e9ebe06dddc2dd358609377f2c5"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_armor_slot_helmet.png"
+hash = "65c18616046aa95f819c01a398ddd844cee0316cabb2c552561d887f545364fd"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_armor_slot_leggings.png"
+hash = "4d417120c6915cf5a30e964caae34bf23cc5693644f20365b4f5413cbea8e220"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_armor_slot_shield.png"
+hash = "5016a323018f09e292165ad5392d82dcbad5e79c2b6b93aff3322dffff80b309"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_amethyst_shard.png"
+hash = "a3c4383a8bd352f35dc354dfbe541186027262d7b80e617da85d1da86eecc7ce"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_axe.png"
+hash = "dc83a9b28ecaf2790c380b0dfec802ddc2f4d76fb494d50f768f5a98c15d9723"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_diamond.png"
+hash = "126ab4c4053fc13eab8c706a8623a99372d41dcc82924481bb98c6d4508cdca2"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_emerald.png"
+hash = "2aad846429c70ce6b90717b1be679a7c7d875a5b513383c622d93eb3fe794f08"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_hoe.png"
+hash = "558b0aeb85405ccf92c5758142595a81c42eabc171ee28c17582cafefa2c4884"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_ingot.png"
+hash = "52a9f14a652d4a24777f2adf4022b028c24724537bcfe8a752001aa8b6a7c28a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_lapis_lazuli.png"
+hash = "4fe614e41fc584637dd10b66c7e221ffb1cef8d56054be988e2263f9b9fd77db"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_pickaxe.png"
+hash = "cc1940aa7cac51134ce622cba7d4c03abbca9ed878c10aea81f4f119d6b6414c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_quartz.png"
+hash = "501b1ca2363945f00bdff641faf03b45858cd9c3274631f16e13f3b3b6be187d"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_redstone_dust.png"
+hash = "9d08188b1c9e98eae2b373448bb005e86b3e82cf7a5c94c5cfcf52a6bd8103d1"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_shovel.png"
+hash = "48ec06c040b8650234a16ac230a9719d23a49d909b982451e96eca301462f2f7"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_smithing_template_armor_trim.png"
+hash = "f16aab4135991dddf741a57e1a9905f2396a7540a330920acfb5103a3e2fead1"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_smithing_template_netherite_upgrade.png"
+hash = "462ba4e3b35542eb5c6e9dd31eb945cdc3417bae8c0fb985ec2771c070ca864c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/empty_slot_sword.png"
+hash = "71554d4fc171b11836a6304da07d8f9bf8c9fd38ee09936e496d7080e952d634"
+
+[[files]]
+file = "kubejs/assets/modmenu/textures/gui/configure_button.png"
+hash = "d1dfc787eae433fba0cc10a0d66d871b03af6c78f3482f26a45c7d6b00c28532"
+
+[[files]]
+file = "kubejs/assets/modmenu/textures/gui/filters_button.png"
+hash = "a00c02e1c5ed68ea2fd61a83d77d90aa84eb68b85e44e4b3b29280cd000a87bb"
+
+[[files]]
+file = "kubejs/assets/modmenu/textures/gui/mod_configuration.png"
+hash = "ed8fe7f24232718815d40e11d0b571c4690580a06f6a3fd43873f4bd3e0b6cb7"
+
+[[files]]
+file = "kubejs/assets/modmenu/textures/gui/mods_button.png"
+hash = "f715ae280aa1ad3d815619a2711fa1843219979a633bea9a3d247f16f93ea524"
+
+[[files]]
+file = "kubejs/assets/modmenu/textures/gui/mods_button_alt.png"
+hash = "4df398628f606b3702eb81e63c27944de97b47530af6a377f2ea5ac3f21aaa3a"
+
+[[files]]
+file = "kubejs/assets/modmenu/textures/gui/mods_button_alt3.png"
+hash = "ea14c0aca8fbe845eaee079fb8ed6d301135f82379dcd24d6980bf0050ccaa66"
+
+[[files]]
+file = "kubejs/assets/modmenu/textures/gui/parent_mod.png"
+hash = "b251c76a454b79cb1767a1d05bd875f81842e9ca9f75400a5f265672f35b0179"
+
+[[files]]
+file = "kubejs/assets/nochatreports/textures/gui/chat_status_icons_extended.png"
+hash = "c3e21c45743dc18584342d08fc447c4d60f6428c620b56236efe17a0d8c0ae70"
+
+[[files]]
+file = "kubejs/assets/nochatreports/textures/gui/config_reload_button.png"
+hash = "cb296675ffca57786b2afcb261c88668d08b4a0e81b1434f3e49b7ee2b964fe4"
+
+[[files]]
+file = "kubejs/assets/nochatreports/textures/gui/encryption_gui_icons.png"
+hash = "e274f8e6f7b0ed010eae4640570ce9e129d058dbb3c25e4144aedbfad1c4c107"
+
+[[files]]
+file = "kubejs/assets/nochatreports/textures/gui/encryption_toggle_button.png"
+hash = "233ddf4ef9fdcfe6b98a9e676f1991ac316ad658470e7e546e302367b6bbd34c"
+
+[[files]]
+file = "kubejs/assets/nochatreports/textures/gui/ncr_toggle_button.png"
+hash = "e8aaa0ab764a772be9550e8caa410fda0f5947b7dda7b682a11636baf7187b97"
+
+[[files]]
+file = "kubejs/assets/nochatreports/textures/gui/report_server_button.png"
+hash = "1e4a34e3fd6f67a0010bb04234c55751ed44c80de9bd773d6aa7bdf19ff69bdc"
+
+[[files]]
+file = "kubejs/assets/nochatreports/textures/gui/verified_server.png"
+hash = "4866e7143d1b25d0d684eb3a30e626daf1b017c38720c40f5ffb1e21e616b138"
+
+[[files]]
+file = "kubejs/assets/quark/textures/gui/crate.png"
+hash = "fb4ed667a3b6b82602359441ed443bedde5711c1a14db5f26951301482c9c0e7"
+
+[[files]]
+file = "kubejs/assets/quark/textures/gui/general_icons.png"
+hash = "161312abb02eb1a7f28c3cbef0aac385b62b9c3197a247f7ea31f0a4115d36ae"
+
+[[files]]
+file = "kubejs/assets/quark/textures/gui/jei_influence.png"
+hash = "5f1c5e1ffe26201e0e14cc1c7223f4bb560073ca9a89d39341502968d1b209ff"
+
+[[files]]
+file = "kubejs/assets/quark/textures/gui/social_icons.png"
+hash = "4114c127212f9a99a0c63221a4d4b808d5ad26f003a6797f1dee9a335e37bf1f"
+
+[[files]]
+file = "kubejs/assets/realms/textures/gui/title/realms.png"
+hash = "47b69328c60336917d35482595f6e22a900fddff999e87eb4eb242fb4c71cd78"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/arrow_left.png"
+hash = "edd09b1985b3c83fc0684443d717b9c2e10c2a6e9f99dbf1803ab9690a328020"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/arrow_left_small.png"
+hash = "2fafcb88ecd8908e2cec20c651f0530a60daceabe491c0802e18dfb38c0593bf"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/arrow_right.png"
+hash = "88f0b2ef59a084b13937b780ca935a7024e658ee825d8bd9534ecacf88480855"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/arrow_right_small.png"
+hash = "03ebda227a58d44087067584f87c582f758f22b6841408864cd8489522b41ff9"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/bopomofo.png"
+hash = "0a3c4edcd58d6e894dce70252c5892ee411e4afc855c9ce367dbac72c381b458"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/button.png"
+hash = "fb292b5f1c92fab09f6ca9b442d2be9052d96c2410183535d0b2cb1e73a149d5"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/button_dark.png"
+hash = "88ba76e148ee273c6e15abadc607e8ec42079de71973c82eb7ff53d74241899d"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/clipboard.png"
+hash = "ad7c3300ed16b615aff5f39d5ed04325f0f82117a3b85a4a570f55d76f552f1d"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/display.png"
+hash = "71e1679398bf8923caa97c42f9da58d64a2d66c088aab4cea7e7efb86e968a23"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/display_dark.png"
+hash = "71e1679398bf8923caa97c42f9da58d64a2d66c088aab4cea7e7efb86e968a23"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/expand.png"
+hash = "7e013ce5734a7aa2530881470d000c6e0e77fe11cfd11765b671ad6a5c1c6aaa"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/jyutping.png"
+hash = "47f0a92993c019f5200674b231f3128e33f9a169b2a44ebd30558cd50effa203"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/kirb.png"
+hash = "25b7c7c98b0d500fee2651231a8bdee0cb2a0d93a763f2521f9d4276288c2493"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/pinyin.png"
+hash = "d90f0b4a950d77befa4fcb638d56fb52f1ef50e1262ee2a5ee65b124ded4328e"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/recipecontainer.png"
+hash = "63dbdc5d0c6933b53900a7e99121f467a552a57ed280c8aa82fa2773c4834054"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/recipecontainer_dark.png"
+hash = "63dbdc5d0c6933b53900a7e99121f467a552a57ed280c8aa82fa2773c4834054"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/shapeless_icon_1x.png"
+hash = "e3fbefb739a84c26cbef05d0b90a93dde7affc7db39cea5ff584f003d4d99dbb"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/shapeless_icon_2x.png"
+hash = "eab4ec6cc4f3ef726bc588d5b23456c77ab9b7b083ba7c1e464a5968d096a229"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/shapeless_icon_3x.png"
+hash = "0cecfac929ba7377216e744911026b108d1c9efffda0abd27b32afb53cdd7cd4"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/shapeless_icon_4x.png"
+hash = "0c60680cd038919e69917f7cb1bc5994ef3f0621fafe75b8a546d5a99dc64833"
+
+[[files]]
+file = "kubejs/assets/roughlyenoughitems/textures/gui/shrink.png"
+hash = "d301c56742635afaf0837f52ab7901d3d8ab1dd81711b109f72612ce8ed89eb0"
+
+[[files]]
+file = "kubejs/assets/shulkerboxtooltip/textures/gui/shulker_box_tooltip.png"
+hash = "ebbbc2c38070ef00b5dd5e19876730051a5f58938833b639084a20197f19d994"
+
+[[files]]
+file = "kubejs/assets/shulkerboxtooltip/textures/gui/shulker_box_tooltip_dark.png"
+hash = "8c8db3176c842c41495b13fe0c77becc555f2b7c54b32bfed17471e3e554ddb9"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/textures/gui/gui_controls.png"
+hash = "416487009dc29180e1f1fe922b15c037731e4043c8eac1d19c06f33ceb2acfa5"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/textures/gui/slots_background.png"
+hash = "a3db29010369b5f6f06ab7606e7da86cfd135314814d02bbec9184e9030ad68a"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/textures/gui/storage_background_12.png"
+hash = "34ceb7d459d95da47c0019ce626f0133ec235ae38182303925000852ffae854c"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/textures/gui/storage_background_12_wider.png"
+hash = "ffaea9436921f53dd2d6623604e7e5c230ba5268cd01ccb9e53790287f77de2e"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/textures/gui/storage_background_9.png"
+hash = "578d708fb6e06480264866ccee1c1f2fe01ba21fe382fd7cf5ff89986e179989"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/textures/gui/storage_background_9_wider.png"
+hash = "32555ae76e9b37ea030af0ccde3e3a52a82e2ad5ffc768b523735b568990a27f"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/textures/item/empty_battery_input_slot.png"
+hash = "a234f2fa599111972c0d696b38550a99da531ea03a7ef80ec684eb435d92ab5b"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/textures/item/empty_battery_output_slot.png"
+hash = "afc2eb36630200ac4214a8b9aabf8864692377bdd0b4597032c2377eb8c37d74"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/textures/item/empty_tank_input_slot.png"
+hash = "10c355e2a59fbb9ddbaa889bf6bf8d5298cf87cbdcd5bb6dac501f5fe84282d8"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/textures/item/empty_tank_output_slot.png"
+hash = "82922a8a2cc2ba741935a3d6b6da1a07da19af057bee8c0d1ce7d68f79e47028"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/textures/item/empty_upgrade_slot.png"
+hash = "e924bc07593a62980757a34a499deb3324b837a7d6cf6dc7507f2a2a7ac3f50d"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/textures/item/inaccessible_slot.png"
+hash = "f638c8ce2a3971fbd843561054f67074c40a4ece7975526ff458bc0b2f6dc2a9"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/gui/crafting_terminal.png"
+hash = "cc47e2d51ac8b66e33bc39d0cef8cccc3a6b419e110e6b099e34e3a04c2fdd94"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/gui/filter_buttons.png"
+hash = "ce286b39ea16ad2b6173f72f588e312e5de2f8fa736e1717d4e23d17b4126059"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/gui/inventory_link.png"
+hash = "f5d7fd2a1cc45f2f1e7b50fa51f57686407c6b4f78de087d59891c11b73d0ae4"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/gui/level_emitter.png"
+hash = "39ffafd8c671320323868502185f5f4d81aac18a63b29354f8178ad2f35d400b"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/gui/storage_terminal.png"
+hash = "a583f39a5f3204c11b415ea4c79dc67a978c27bfa4b2f2e3620d32bde5c9650a"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/gui/tag_filter.png"
+hash = "b175a12da75cbfc7087ffa8c21a9b8027d0d7a2e4d6415168d6197cb8c793584"
+
+[[files]]
+file = "kubejs/assets/trashslot/textures/gui/slot.png"
+hash = "00ff619a71b4301d4034e7e7b5a5840e5370be847c2af8c917efeb828b879094"
+
+[[files]]
+file = "kubejs/assets/trashslot/textures/item/trashcan.png"
+hash = "65d72a5036a340a7cee79df0944da2864702d52020cdbc04143552a590a676db"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/blank_back.png"
+hash = "df95e4dea3c84f608429f992233ef0a2020b76c9ec4753ac30457b72994e5a06"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/more_slots.png"
+hash = "9358a08f362dbde264381687c664985717ba7743d5324a4a46ca262ac20f84f4"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/aglet.png"
+hash = "026f8fca6d5f87e662c8718e64d939996a9d1f269e887f3979685f965e5f3546"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/back.png"
+hash = "858679bb81e1f7bcc60ba258fcf5440c7017ffda1d54db6ed63f562949dc991a"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/belt.png"
+hash = "d4dda6f8052b508e44f13627c6b636ad901a907d8577af50bfa5e8e87551d35e"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/cape.png"
+hash = "a2de6c209a6ce0a7c5bcdec049f9cd57e058a0d0f0d92ce279dabe2b5d4df08f"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/charm.png"
+hash = "3999d725a8d96b0bc3fad5cd8574caa64dded7c1ed1bd33ee1b82c66d1128dbc"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/empty.png"
+hash = "086e3b13641a660cc83ed28dd8dd2585f45f40c68dfbc77dacd76eb23b8698ce"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/face.png"
+hash = "86ddbdbcfdcdb50855cee782293ff804428a3e755e62349b44bdda1837e4e404"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/glove.png"
+hash = "f995c58c9c665f5b90a75f9e521d94d4ad1f829187331c99498d177f0ce2436b"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/glove_mirrored.png"
+hash = "11abde181e6f41875c275d7e744c4471cbeef4b8029692e94c246e429570bc21"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/hat.png"
+hash = "ebe5c3b8bbc78a937ece078c79de8f6a95fcfb93bc4a44853eb765c79338b245"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/necklace.png"
+hash = "e5871ab89f3e6d76dd8e6f026f6636a04cfd136e03a665ef3fb10abba4f7e567"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/ring.png"
+hash = "8ae1e8e307a28c3120b03a97447f5239169debd1ed5cf5c23c50ddd47105343b"
+
+[[files]]
+file = "kubejs/assets/trinkets/textures/gui/slots/shoes.png"
+hash = "216b7a2b84c0aaf1866280efd61e007db1b344ff56f76a26519d35a81cccf21f"
+
+[[files]]
+file = "kubejs/assets/twilightforest/textures/gui/crumble_horn_jei.png"
+hash = "2a02971d08d512ccd1d995a91fa872cdc6457d215327421c6af06ba5fb9baa04"
+
+[[files]]
+file = "kubejs/assets/twilightforest/textures/gui/glow_overlay.png"
+hash = "75fc5c541b30ade89b594ff5778af5e528c0d91e9aea675fd193055fc2625ccf"
+
+[[files]]
+file = "kubejs/assets/twilightforest/textures/gui/guigoblintinkering.png"
+hash = "ef6705766c3b4059a62a6a080e27c4c0fcae555b59be85d80d25baf7bd16e07c"
+
+[[files]]
+file = "kubejs/assets/twilightforest/textures/gui/mapicons.png"
+hash = "c70853fd8f1f0e2415b3fcc445c9fe39a4312d842d4fe64fb280e2b161238fed"
+
+[[files]]
+file = "kubejs/assets/twilightforest/textures/gui/tf_icons.png"
+hash = "3d4ced280fc68396aa01e430edae08b83a2ca04dd41a4e397615f5e7689513d2"
+
+[[files]]
+file = "kubejs/assets/twilightforest/textures/gui/transformation_jei.png"
+hash = "725e8028b902b1f5489715735cf5b99ff4272b6429cbf4ba4485763c9ed04fa8"
+
+[[files]]
+file = "kubejs/assets/twilightforest/textures/gui/uncrafting_jei.png"
+hash = "7421feec16882dd6d4479d3762647e3b38391229bf57cf1d048ceeecc11d2254"
+
+[[files]]
+file = "kubejs/assets/usefulbackpacks/textures/gui/backpack/large.png"
+hash = "e935aa1f57208c05348b910e983aff99e4c73ab320628d5853ce8395d232a16a"
+
+[[files]]
+file = "kubejs/assets/usefulbackpacks/textures/gui/backpack/medium.png"
+hash = "8ac97ff16bd1e9c25046127157783642eecac4a4f7451bc0409e9fa26ac70683"
+
+[[files]]
+file = "kubejs/assets/usefulbackpacks/textures/gui/backpack/small.png"
+hash = "6ca84a3f3bfe043ae0b199a7004b49211bf4909862b0cbde13e1b98a90b1531e"
+
+[[files]]
+file = "kubejs/assets/usefulbackpacks/textures/gui/filter_configurator.png"
+hash = "4064309a8532a0400720e6c98759d589679f9722c0ff95d37077ab29f615bb7d"
+
+[[files]]
+file = "kubejs/assets/usefulbackpacks/textures/gui/item_filter.png"
+hash = "f53044b88c6d267e4a7126983c26512bfa682149625b01f22649925a5969cb16"
+
+[[files]]
+file = "kubejs/assets/usefulbackpacks/textures/gui/tag_filter.png"
+hash = "fde106736101429976a2fe10d32ffa928e220fd368839fd4ca82b7aff425bef9"
+
+[[files]]
+file = "kubejs/assets/usefulbackpacks/textures/item/empty_backpack_filter_slot.png"
+hash = "cef2de6c242d45f712ceddee60bb163d0072dc25fb778e8e94135b34bc9a91f6"
+
+[[files]]
+file = "kubejs/assets/usefulbackpacks/textures/item/empty_filter_slot.png"
+hash = "a486c40abc7b606192a8aa2366c49e1bd4f723165d15a44a97c1a2bdd455a42e"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_audio_devices.png"
+hash = "1116f9f47a50705cb4b8ffb2e775853f6cea8284c8ae5d091bc29115459c4705"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_create_group.png"
+hash = "4a6a66da7a22d7766f76b4288d2d8e9be26105c5e0fa06bacf6065e8ae85a0cc"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_enter_password.png"
+hash = "8c98dd01dff31b487e6cbe62330c21f3b408fa9301615fb986590a2fd0e77374"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_group.png"
+hash = "1116f9f47a50705cb4b8ffb2e775853f6cea8284c8ae5d091bc29115459c4705"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_join_group.png"
+hash = "1116f9f47a50705cb4b8ffb2e775853f6cea8284c8ae5d091bc29115459c4705"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_voicechat.png"
+hash = "88495a367faf88afc8634b1e23ea94823c61412f48123cde723457528efa951d"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_voicechat_settings.png"
+hash = "f43abdc61faf32655193d3a32c19199587ef5c07569740f4e794a05781a3b386"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_volumes.png"
+hash = "02d483b1919c1e96a374959186b4b4f03756e3a52845945742645cb742618cd9"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/voice_activation_slider.png"
+hash = "3bc920e1e7ee06711f88519aad34598dc2e2ffadf033c91f7fcd996ccf4dc491"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "28a977f9eb88813d2d879e9576444731a654b843dbc3fb1cb170cf9ee3fec6d5"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "8d8ca07aabcdfe93093fb7468c29f368f55010511b24e95ca024ff476085695e"
+
+[[files]]
+file = "kubejs/data/Remove_Terralith_Intro_Message.zip"
+hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "mods/aeroblender.pw.toml"
+hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "27cfc4c91d1833258b049b2752b81e1ae8bc67b4126ebc2e26f33e93846d2552"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "52614d4074179a2819bbb70aec41cf3dd181e6d4bf9763e181fb2fd2a539e189"
+metafile = true
+
+[[files]]
+file = "mods/ato.pw.toml"
+hash = "01a0bd2de5a9eb726d35fedfcd6961a97e77c41eda29d4bc7881a2d0bf8dd81e"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
+metafile = true
+
+[[files]]
+file = "mods/blue-skies.pw.toml"
+hash = "6836b52a7002d343072a72dcb1f3370ff8ecdda43ea6499cb0f1b1892b5fe7a3"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "15e15983557b274c6b5064394915d1c7e963db788fbebe1b5b2a4f220bd174ad"
+metafile = true
+
+[[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "495aede00b5661e9e0bb86082748bdf2e9832759f0d0366f6bbf9f7d22110333"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
+metafile = true
+
+[[files]]
+file = "mods/config-menus-forge.pw.toml"
+hash = "d7c2a547057823e43871c7a432a95b5a821e4da5f9fa574a53617642e90d1a43"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "29c9add8e5361b1b4af4e5c024f3e1d00e1d2d3d4907d2b95402bf03d0ac5b49"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "edede622692f5c7c094ccb9ef04eceb1a096c707dc303e0c1b02750349f46a31"
+metafile = true
+
+[[files]]
+file = "mods/create-armory.pw.toml"
+hash = "9a2eae92b9633c9ca48bd3474c902e5de59719b6f0d3165b160cb7a98713137c"
+metafile = true
+
+[[files]]
+file = "mods/create-balanced-flight.pw.toml"
+hash = "59da67ba28932cdaf191b2de978485db92ca26a2b089addc7c507dcdee11b590"
+metafile = true
+
+[[files]]
+file = "mods/create-chunkloading.pw.toml"
+hash = "4d4c31e67204d3381f826c05e02e041126c5f7c10a26894cbcce924f6407a027"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "b6397a26aec2794a006ba9033f5b114c241e88bf80fe82937cb57d2b39e333d9"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "14f641145cd3291bc39219759bc823dcf65a0106693238eed6fb8187c7fdfd3b"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "e931be9b2940121bafaa7564d14c2d38e6693c557e9d7a5422030f8f6b7130a3"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "63fe5fc1d7b29a73db90113babd4c9df92e54b79e384bfe22d3b2610e56f12b6"
+metafile = true
+
+[[files]]
+file = "mods/create-recipe-expansion.pw.toml"
+hash = "0e3b55db5f0f47f51fc44260137b7b685f34463d7ccf160bca47d40cefcf8e19"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "f391d8786e495abf68c3ca8f8aec546c6a66b13a170e1b0378b95dfa3fba1f9d"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "5c8433adf9386789acbb00abbbe7c6279979d7c9095ca2e2723e864fa105b986"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "582df14a33015fe8060af8d1d759d10cfa0dbfa93927f007b611032ba574c950"
+metafile = true
+
+[[files]]
+file = "mods/deep-aether.pw.toml"
+hash = "1fa793b1a87e7738ada3145ff28b3f8b958472a3909258dab46bf782958cf720"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "c2693b6cb0bbdfbf84b166382f8612c8dc8ccc02ab5fa66d44bf7ece75f48afb"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "ef6625cc48b53a1726e1523b4cc5068568494db31bb4cdce1f05b6824f1ec977"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-crosshair.pw.toml"
+hash = "431d851b9219b9d96074593ffabf045d824a7e8041d599fd74dfcb90a173923d"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation-forge.pw.toml"
+hash = "242141afd7db694a105b4f95ddda52f53182f956d31b09c7416dbb4cf8768a25"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "ccc46dc4537a846919a3e3045b397769fd9e6220ff26a5397408f891b7d075a0"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu-forge.pw.toml"
+hash = "98cef412ba0754001dd865cd9ca5dbff62e91b3aadacdfdc2749d14d309c1303"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "d8d10f6e3901ced172a93d116e775036ecfb501e6933345897d6d8fd00b1ad3c"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "2aeab43f8b457417a4a91782cf1b3fa9de2c06a522e83e6555355c708d2c935e"
+metafile = true
+
+[[files]]
+file = "mods/gml.pw.toml"
+hash = "0ca939c3a2cac1cc9cc685fb73372a13c951c470766cae3dcc2ae5de181fcfc2"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "1382dc49c71197e487e57199ce8c18acf0b42c538580255058d19e2e226d1e56"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "8e8d304b7741ae758f7a9f2008a3e9436d0bf40ceeaf7f74a93218dfd18ab6ac"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "5ad11c7b6b20623354a612fe52d6bac546441363b16490404a8a373d2ff47f22"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "4e0ebdb97b93b545a2ab458e7aea179a32564234a7828fe4ecbee415d68916a2"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "8870d86453dcfef75327875c3d1b8ec5bc9a4310c47147aa6a837de5491257f7"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "abe37ce149361afc84e711d82b2c2f24cb55744d69d706469d1e40565a753596"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "c6ff0e0aa4a0f85eb58ed79412b570fe74bbc48fb44aef5acd5b90ab5a37794f"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "3fce40c9060e26cbf4dab3dac2b14afe803641595e718f2c9935fd9aef93449f"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "e8371843872214c9ed720f8b14911c1cf4f5b77a931ee5e1bdf2ad5a1ab74798"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "058ffeb5d53f7390b2cb3b91017ede768427893e43a433ec5d6e4b267547d5a6"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "5bf5faa4a3e31485734580e9b319423bdccf28bc94f91d7164f175fda959a47e"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "2f011c26e68e7401f436417d778b8cdb37a1ef1bb63f5c457bb715b82c91b78a"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "63dc9da73f7b641a7f355ff2b1e3dacf6b16a4ece302759b1b27c79ce2f1ae2c"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "f64a59be83c91ba753e191a2b9ed313d63f22120cdc748a9ef2c2403595cab8b"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "019c0deacbb93409af392fa6bbf7f89737ad1d48cb9c22a0ed268e4d719f91ba"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "19da0aa4007bd1ca94537bf80335fe88a87473e34af7b75bafb2e647d0d40562"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "cba2fe39dbb3e441a198731b5f215caa0798d3fe9ce7f2521a9343b9e04a2675"
+metafile = true
+
+[[files]]
+file = "mods/tetranomicon.pw.toml"
+hash = "6150bc94e9ce939c8549915c6ad6d2919b1c6a76f1e9238e33ebdb7bcd27bd39"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d6acbdec54bad3470251a4e3fa81dc4143c1fcc4272f38d03e1bba3868a4e13a"
+metafile = true
+
+[[files]]
+file = "mods/waystones-teleport-pets.pw.toml"
+hash = "d48337e86e6d00870daece97b2c5492aec2e4147841f1ddda663e70e91fb0a0b"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
+metafile = true
+
+[[files]]
+file = "mods/world-preview.pw.toml"
+hash = "74ba18de7e029c702b4110cec7530d44bfd943dc650b44c0bef9c081c9faed05"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
+hash = "8d36634238df44d710194c2e7bd99a58387e15a0a1a0d25edd1edc1829a00650"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0c05da9019ad9d106253954dad1d1c7b969c0d2192f712ec039064515f1481ec"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "456748e1b1bdc9f4c411cf332a3e28e9ea57496b009af4aaec85a9615cfd4df6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "04766bb05ab45a66403718eb819a6e61cfe2a35ffe82546e46890cf0a6f9fe52"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "50c709e0297001b0825179335e9f8c81d802740612497e1d231abb19b2fef6bc"
+metafile = true
