@@ -1,11 +1,11 @@
 name = "Axial"
-version = "0.0.1"
+version = "0.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1589564168679d5277fd6103954681906dae90799c44213fc517cf2244172b29"
+hash = "d5d72e2da0bfc8bddca6f4d706c0fd99772bc4558c97fb3ac3217877870eac9e"
 
 [versions]
 forge = "47.2.0"

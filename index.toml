@@ -14,7 +14,7 @@ hash = "a1b7559af71ae8a832e77770309baa48a33fcd4bbe6a620cc994b6a96f7864e4"
 
 [[files]]
 file = "config/blue_skies-client.toml"
-hash = "7d73571698274e746d34de9c091d60e88e5d0e2ab979fd424c16393d3f701170"
+hash = "4ecac62e844a47731131b44a45878c36305096f2901b4cb93512662a68ae66e7"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -778,31 +778,31 @@ hash = "8e70d46b1f8a865022b287620293da7c6c04bcc9ce8192404b2440a67ee40af0"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "60d32432eb44fad490793415e8b069b16721bf7e20e38caad750a299d2f24b47"
+hash = "94eb4d7073e76b5a99350bbd028b8b30df691dc79f728d32e72ee2e21dcd6196"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "7c29cc548e94bc18b86394f8db99898390731b091ba716fefadd08995ed2713d"
+hash = "f542f62b0f17e0a8ffb706f23830a2422704b5246945339ced6de92b6f505788"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "7f399f8297cf1db6c3e3f14e88521a9e56b87dfe7d7ae1f9273e1cfea014e717"
+hash = "a91c90fed4b9962f9ad96f4436999f089708aff0608582ddf14ccfad8f1606fa"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "70e35718f0ec16f4377ea9771a3bbdb029bcf5f396d4f210c06b01832604f29a"
+hash = "642c2e0601abc9eae30ee4684a0d3af3c8b4950ca21c005dcd0c17936334598e"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "0deb8010e2388f93819516c12220584bcfe58a4bb7de25ac635f6acb484169d6"
+hash = "b97b8d1d8f15cc7cb059f95b1c11b440fcb61bc6cdd6597bc0492d634c794108"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "ebf80a71dce9b8f9a2548820193a53d549b12ab76fe2fad5b322b16d2ca3cf49"
+hash = "e75560c8124cf81ccb171ae7a6f4ca0f2419fdf3e6e0c549aa296d1a1ecc0b88"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
-hash = "1ae6b62d903b450025091bab9b11f79581e8d4e1f7b3a3b646d143fd4cad31a0"
+hash = "16a9557f1d30f86a52cb97bd15b0183bb7ea592866c5eab6d6a6b2f69773a898"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/toasts.png"
@@ -1367,11 +1367,6 @@ hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]
-file = "mods/config-menus-forge.pw.toml"
-hash = "d7c2a547057823e43871c7a432a95b5a821e4da5f9fa574a53617642e90d1a43"
-metafile = true
-
-[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "29c9add8e5361b1b4af4e5c024f3e1d00e1d2d3d4907d2b95402bf03d0ac5b49"
 metafile = true
@@ -1402,11 +1397,6 @@ hash = "b6397a26aec2794a006ba9033f5b114c241e88bf80fe82937cb57d2b39e333d9"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "14f641145cd3291bc39219759bc823dcf65a0106693238eed6fb8187c7fdfd3b"
-metafile = true
-
-[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "e931be9b2940121bafaa7564d14c2d38e6693c557e9d7a5422030f8f6b7130a3"
 metafile = true
@@ -1414,11 +1404,6 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "63fe5fc1d7b29a73db90113babd4c9df92e54b79e384bfe22d3b2610e56f12b6"
-metafile = true
-
-[[files]]
-file = "mods/create-recipe-expansion.pw.toml"
-hash = "0e3b55db5f0f47f51fc44260137b7b685f34463d7ccf160bca47d40cefcf8e19"
 metafile = true
 
 [[files]]
@@ -1443,7 +1428,7 @@ metafile = true
 
 [[files]]
 file = "mods/deep-aether.pw.toml"
-hash = "1fa793b1a87e7738ada3145ff28b3f8b958472a3909258dab46bf782958cf720"
+hash = "4202296c1719ade93e7e7005f4f1abe2b79fe732047ab8db2424e40ecb49dbe7"
 metafile = true
 
 [[files]]
@@ -1452,23 +1437,8 @@ hash = "c2693b6cb0bbdfbf84b166382f8612c8dc8ccc02ab5fa66d44bf7ece75f48afb"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "ef6625cc48b53a1726e1523b4cc5068568494db31bb4cdce1f05b6824f1ec977"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-crosshair.pw.toml"
 hash = "431d851b9219b9d96074593ffabf045d824a7e8041d599fd74dfcb90a173923d"
-metafile = true
-
-[[files]]
-file = "mods/eating-animation-forge.pw.toml"
-hash = "242141afd7db694a105b4f95ddda52f53182f956d31b09c7416dbb4cf8768a25"
-metafile = true
-
-[[files]]
-file = "mods/embeddium.pw.toml"
-hash = "ccc46dc4537a846919a3e3045b397769fd9e6220ff26a5397408f891b7d075a0"
 metafile = true
 
 [[files]]
@@ -1532,16 +1502,6 @@ hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "abe37ce149361afc84e711d82b2c2f24cb55744d69d706469d1e40565a753596"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "c6ff0e0aa4a0f85eb58ed79412b570fe74bbc48fb44aef5acd5b90ab5a37794f"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
@@ -1554,11 +1514,6 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "3fce40c9060e26cbf4dab3dac2b14afe803641595e718f2c9935fd9aef93449f"
-metafile = true
-
-[[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "e8371843872214c9ed720f8b14911c1cf4f5b77a931ee5e1bdf2ad5a1ab74798"
 metafile = true
 
 [[files]]
