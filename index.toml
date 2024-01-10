@@ -13,6 +13,14 @@ file = "config/appleskin-client.toml"
 hash = "a1b7559af71ae8a832e77770309baa48a33fcd4bbe6a620cc994b6a96f7864e4"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "f6bee7f25e4c0633dce751289a674a068c9c5fd22ce59b393761dfb3bfad6c9e"
+
+[[files]]
+file = "config/betterf3.toml"
+hash = "6fdffc4143f9970979537e665c5510a9eb72bc5b59f3fa021666e2652691a3a9"
+
+[[files]]
 file = "config/blue_skies-client.toml"
 hash = "4ecac62e844a47731131b44a45878c36305096f2901b4cb93512662a68ae66e7"
 
@@ -66,7 +74,7 @@ hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
 file = "config/forge-client.toml"
-hash = "c496b95c610d227931be1d416ad5dbce69e3d3d3fd31abb8ef13c19d52cbbcff"
+hash = "887ab56b28b84932643280912fe29bd66e3f2c7e80c31b114925bfe7a670601b"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -119,6 +127,10 @@ hash = "009c1d37841ed2b9f68569975d978c732213561af4328a9af0ea92d46d8f52b2"
 [[files]]
 file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "b8772a8964a7d68b2a7fe86ac6c5ab887a2b003d8be2758d4a9b8f33c988b1b9"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -778,27 +790,27 @@ hash = "8e70d46b1f8a865022b287620293da7c6c04bcc9ce8192404b2440a67ee40af0"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "94eb4d7073e76b5a99350bbd028b8b30df691dc79f728d32e72ee2e21dcd6196"
+hash = "ee4d936b61da0cc490d376702d0a81cb64c8b94807d16ac833b481f6650ebde9"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "f542f62b0f17e0a8ffb706f23830a2422704b5246945339ced6de92b6f505788"
+hash = "eb9b3e515f41dc3ce6aa6caca733551373adc1277dd1463eb2dbcbd59f29768c"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "a91c90fed4b9962f9ad96f4436999f089708aff0608582ddf14ccfad8f1606fa"
+hash = "a90743ea95533509bd5f9d76057f1cc476045b29ca6e64d487fa5d90d6fc7d80"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "642c2e0601abc9eae30ee4684a0d3af3c8b4950ca21c005dcd0c17936334598e"
+hash = "7ce31388de2add8c200c3fc550c8a5ecef0c69759ebd91557c030268611e5b02"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "b97b8d1d8f15cc7cb059f95b1c11b440fcb61bc6cdd6597bc0492d634c794108"
+hash = "6ccdf12e0876336860f491148a115baa5f7599a25867bf3fd33c396b97d04cb4"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "e75560c8124cf81ccb171ae7a6f4ca0f2419fdf3e6e0c549aa296d1a1ecc0b88"
+hash = "f8bd0a9d3260e25251fdf88e39bf07a6c89d56a1ea7ff124575b239496af9861"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
@@ -1347,6 +1359,16 @@ hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+metafile = true
+
+[[files]]
 file = "mods/blue-skies.pw.toml"
 hash = "6836b52a7002d343072a72dcb1f3370ff8ecdda43ea6499cb0f1b1892b5fe7a3"
 metafile = true
@@ -1442,6 +1464,11 @@ hash = "431d851b9219b9d96074593ffabf045d824a7e8041d599fd74dfcb90a173923d"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5550ba005fda73184df586093d052378c337382f63b08c63bc987b0023192903"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu-forge.pw.toml"
 hash = "98cef412ba0754001dd865cd9ca5dbff62e91b3aadacdfdc2749d14d309c1303"
 metafile = true
@@ -1482,8 +1509,18 @@ hash = "5ad11c7b6b20623354a612fe52d6bac546441363b16490404a8a373d2ff47f22"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "2a8e4c7488ddd420fc432717b9f4e76cb4cfbf8f02f351c6cd8f0390dde778ad"
+metafile = true
+
+[[files]]
 file = "mods/mutil.pw.toml"
 hash = "4e0ebdb97b93b545a2ab458e7aea179a32564234a7828fe4ecbee415d68916a2"
+metafile = true
+
+[[files]]
+file = "mods/mystics-biomes.pw.toml"
+hash = "7d7580b905cae0415bf8e76d3aa48ea53944521bb13d9f2678bff0b8664c8e8c"
 metafile = true
 
 [[files]]
@@ -1499,6 +1536,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "dc868f118238a2d99462045168037de0b42e01dc3ef3434653fe12b3d9824add"
 metafile = true
 
 [[files]]
@@ -1610,3 +1652,7 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "50c709e0297001b0825179335e9f8c81d802740612497e1d231abb19b2fef6bc"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "f54641c63236a13b516f629eccd4b1da374f6ab38040ef83b1fe54c920492a06"
