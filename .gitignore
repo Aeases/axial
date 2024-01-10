@@ -1,2 +1,8 @@
 /Axial-0.0.1.zip
 /Manticore-0.0.1.zip
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
