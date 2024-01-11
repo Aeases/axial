@@ -14,7 +14,7 @@ hash = "a1b7559af71ae8a832e77770309baa48a33fcd4bbe6a620cc994b6a96f7864e4"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "65e81221d75444648979a2567a3c6be8f8022abb0f20874e530cb584347ff43c"
+hash = "5e5dd7ff0d7626b6ed2875f26a050ce2376e36673a30d00b5f8fbab1bb80ce1f"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -1508,13 +1508,28 @@ hash = "431d851b9219b9d96074593ffabf045d824a7e8041d599fd74dfcb90a173923d"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "7b815d29dde405665972fe7b176f50d4a705cc98d6a81063b871a0c5d38c9f2a"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5550ba005fda73184df586093d052378c337382f63b08c63bc987b0023192903"
 metafile = true
 
 [[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "8c319dc9be07b01f52370beba89dfff019d8adae14278685641cc28f2ef19b2a"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu-forge.pw.toml"
 hash = "98cef412ba0754001dd865cd9ca5dbff62e91b3aadacdfdc2749d14d309c1303"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "50056479cbf8921db75cc5490dd52f8420fd4492dfe2e31ce90460b29e21057e"
 metafile = true
 
 [[files]]
@@ -1538,6 +1553,11 @@ hash = "0ca939c3a2cac1cc9cc685fb73372a13c951c470766cae3dcc2ae5de181fcfc2"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "ca3df6df3210338bbd18683eb2064ccd7cfa4e19e0c64f8ec0d93a09e888e4e9"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "1382dc49c71197e487e57199ce8c18acf0b42c538580255058d19e2e226d1e56"
 metafile = true
@@ -1555,6 +1575,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "5ad11c7b6b20623354a612fe52d6bac546441363b16490404a8a373d2ff47f22"
+metafile = true
+
+[[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "f390eec552a58857c58f68a2a7b30822e78b0ae13240c39865b1641708c9d8e8"
 metafile = true
 
 [[files]]
@@ -1578,13 +1603,28 @@ hash = "7d7580b905cae0415bf8e76d3aa48ea53944521bb13d9f2678bff0b8664c8e8c"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer-forge.pw.toml"
+hash = "7fe39c6ca31974b4e57e4b08a174beb959933767623c70893064a282ae29a859"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "8870d86453dcfef75327875c3d1b8ec5bc9a4310c47147aa6a837de5491257f7"
+metafile = true
+
+[[files]]
+file = "mods/openblocks-elevator.pw.toml"
+hash = "9d66478fde6c978312f93734d481bcb9ae9c49b74cb4538fce58c65ef15d593c"
 metafile = true
 
 [[files]]
@@ -1615,6 +1655,16 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "058ffeb5d53f7390b2cb3b91017ede768427893e43a433ec5d6e4b267547d5a6"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "87f65e6facf6f4cb44331ad7700f706bbbe6376678bcdac3feedc3d802d10732"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "ce696c09e68dd81a8b08a3e6a0fdc484a5ce0b2d9cde16ac71df9b86c0ec1de5"
 metafile = true
 
 [[files]]
