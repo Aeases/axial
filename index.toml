@@ -14,7 +14,7 @@ hash = "a1b7559af71ae8a832e77770309baa48a33fcd4bbe6a620cc994b6a96f7864e4"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5e5dd7ff0d7626b6ed2875f26a050ce2376e36673a30d00b5f8fbab1bb80ce1f"
+hash = "b68cb3d1ab3aa2003bdd3ec0f06d37098f67d57f41226d20459a93e84c1a73d0"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -23,6 +23,14 @@ hash = "6fdffc4143f9970979537e665c5510a9eb72bc5b59f3fa021666e2652691a3a9"
 [[files]]
 file = "config/blue_skies-client.toml"
 hash = "4ecac62e844a47731131b44a45878c36305096f2901b4cb93512662a68ae66e7"
+
+[[files]]
+file = "config/embeddium++.toml"
+hash = "78026f5c2034c42464db57061e0d10b9fd6390a18011d38e9fd5e90422decdc0"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "5e3b37bff2f98e7b1706b9c74b4b46e0b940899a674fb771b833746c8b0ce66a"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -75,6 +83,34 @@ hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 [[files]]
 file = "config/forge-client.toml"
 hash = "887ab56b28b84932643280912fe29bd66e3f2c7e80c31b114925bfe7a670601b"
+
+[[files]]
+file = "config/jade.json"
+hash = "c64f4557ee4d1319caab9a3bf596df9fd4fcae978597b45682515bbbce2df368"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "c64f4557ee4d1319caab9a3bf596df9fd4fcae978597b45682515bbbce2df368"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "1ccf5b6f12e4889788dd62ebcf25f00a205f4711a63eac6a57b2a4590f06f564"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "2e678dc06d471c496712f98d300d70a9d1a38a848481f25a949c57aed42de53e"
+
+[[files]]
+file = "config/mna-client.toml"
+hash = "ae73df4c8c3546d42348c08df2cafc0034ee65f308b0b6c0a72f6a801b31591d"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -1398,6 +1434,16 @@ hash = "15e15983557b274c6b5064394915d1c7e963db788fbebe1b5b2a4f220bd174ad"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "ef5de957c934c3b1d24306fc59f6c36f6b0b1078d166855b1d499949acd3ea1c"
+metafile = true
+
+[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "495aede00b5661e9e0bb86082748bdf2e9832759f0d0366f6bbf9f7d22110333"
 metafile = true
@@ -1508,8 +1554,8 @@ hash = "431d851b9219b9d96074593ffabf045d824a7e8041d599fd74dfcb90a173923d"
 metafile = true
 
 [[files]]
-file = "mods/dynamiclights-reforged.pw.toml"
-hash = "7b815d29dde405665972fe7b176f50d4a705cc98d6a81063b871a0c5d38c9f2a"
+file = "mods/embeddium-plus.pw.toml"
+hash = "22b9346ae6b179c675f7ffece788284d0fe0e690d19fc9d4524bbc3f3b800be9"
 metafile = true
 
 [[files]]
@@ -1560,6 +1606,21 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "1382dc49c71197e487e57199ce8c18acf0b42c538580255058d19e2e226d1e56"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "3a6ef3205134c85a10deb5bb8e2726e40f3548c4a1d1d01bf2c7f1f5abd0663c"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "4b798f5f1c59f9ff4eb657f6ee899c2b6210d05e5812abf75ef33a0e98ed5475"
 metafile = true
 
 [[files]]
@@ -1630,6 +1691,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "a6d2a47c63ad8d73f67de705591ff863cffa9e475463c81445e1dad0ed94084a"
 metafile = true
 
 [[files]]
@@ -1713,8 +1779,18 @@ hash = "6150bc94e9ce939c8549915c6ad6d2919b1c6a76f1e9238e33ebdb7bcd27bd39"
 metafile = true
 
 [[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "69c5e061e909cd434f23d2212ea6db6ab9d1cb7dbf3238948e1f871c3430f947"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d6acbdec54bad3470251a4e3fa81dc4143c1fcc4272f38d03e1bba3868a4e13a"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "3a3648832ed73aad40fc1a29e1092238cbd3cd2b6f70f305db8a0ac6608e95ba"
 metafile = true
 
 [[files]]
