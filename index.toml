@@ -14,7 +14,7 @@ hash = "a1b7559af71ae8a832e77770309baa48a33fcd4bbe6a620cc994b6a96f7864e4"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b68cb3d1ab3aa2003bdd3ec0f06d37098f67d57f41226d20459a93e84c1a73d0"
+hash = "baddb61314b7e19b2fb186ef3d415f6dd58ee82bb7e26b3d44126250c61071ec"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -1611,6 +1611,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "3a6ef3205134c85a10deb5bb8e2726e40f3548c4a1d1d01bf2c7f1f5abd0663c"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
 metafile = true
 
 [[files]]
