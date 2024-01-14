@@ -1,0 +1,12 @@
+
+[general]
+	#how much health the protects poke ball heals per second
+	#保护精灵球每秒会治疗多少血量
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"每秒治疗量" = 0.0
+	#已捕捉生物的精灵球发射后,会在几秒后自动收回
+	#Range: > 0
+	"几秒后会自动收回" = 10
+	#是否限制精灵球可捕捉的种类为true时限制为只能捕捉友好生物和已驯服的生物,为false则不限制
+	"是否限制" = true
+

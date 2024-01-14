@@ -1,6 +1,6 @@
 
 [general]
-	disable_mod = false
+	disable_mod = true
 	hide_bossbar = true
 	shadow_text = true
 	auto_start = false
