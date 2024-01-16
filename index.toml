@@ -14,7 +14,7 @@ hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0e76af610eddb2eadeb8b370ba7ee487ba89f8e03d8cc84a2dfea36dbedd3577"
+hash = "f2dd731904773ad75c6e9b4edc1a22d3877e1977767214fcc35e20c321e7d31d"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -1374,7 +1374,7 @@ hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "b23ed6d57d5410d5bc370dac2096abc727c521da9d044922d5a85eb1fc271fe7"
+hash = "4099e16a3b81e298fa30cc0aef2f61554507054810da438e8001463c4a510253"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -1592,7 +1592,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5550ba005fda73184df586093d052378c337382f63b08c63bc987b0023192903"
+hash = "fb529895a347a9ee0827999259eac9ab2aab28dab9a3045ecd17166787a4a742"
 metafile = true
 
 [[files]]
@@ -1602,7 +1602,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "98cef412ba0754001dd865cd9ca5dbff62e91b3aadacdfdc2749d14d309c1303"
+hash = "d6a8e0ca64ab51eb2842861eb729d9f0bdbcd1dba4ccfaa4236a2f973a8037c6"
 metafile = true
 
 [[files]]
@@ -1662,7 +1662,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "8e8d304b7741ae758f7a9f2008a3e9436d0bf40ceeaf7f74a93218dfd18ab6ac"
+hash = "34f1fb2e7c9fc5fa9a646a8f59b4e6054a1c5de60072d194c421662365a1bfbf"
 metafile = true
 
 [[files]]

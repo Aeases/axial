@@ -18,6 +18,8 @@ ServerEvents.recipes((e) => {
   RemoveRegularAndBlasting("alltheores:zinc_ingot_from_slate_ore")
   RemoveRegularAndBlasting("alltheores:zinc_ingot_from_raw")
   RemoveRegularAndBlasting("alltheores:zinc_ingot_from_ore")
+  e.remove("alltheores:smelting_dust/zinc_ingot")
+  e.remove("alltheores:mek_processing/zinc/ingot/from_dust_blasting")
   function AddRegularAndBlasting(i, o) {
     e.smelting(o, i)
     e.blasting(o, i)
@@ -25,4 +27,5 @@ ServerEvents.recipes((e) => {
   AddRegularAndBlasting("alltheores:raw_zinc", "create:zinc_ingot")
   AddRegularAndBlasting("alltheores:deepslate_zinc_ore", "create:zinc_ingot")
   AddRegularAndBlasting("alltheores:zinc_ore", "create:zinc_ingot")
+  AddRegularAndBlasting("alltheores:zinc_dust", "create:zinc_ingot")
 })
