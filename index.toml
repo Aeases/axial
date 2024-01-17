@@ -14,7 +14,7 @@ hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f2dd731904773ad75c6e9b4edc1a22d3877e1977767214fcc35e20c321e7d31d"
+hash = "15e398fcef80cde434eff5b3375c8e9a84ae311f52ab739169ddce7195c592c9"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -1672,7 +1672,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "5ad11c7b6b20623354a612fe52d6bac546441363b16490404a8a373d2ff47f22"
+hash = "f425c80aaf60a9e503dfb132b3d334a35c2f82518b96b2a15d5d87e616ff9156"
 metafile = true
 
 [[files]]
@@ -1753,11 +1753,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
-metafile = true
-
-[[files]]
-file = "mods/poke-ball.pw.toml"
-hash = "f367ad7f5af5ba20b254a9ba6cc5c09d8e5f7dcc9bb25102ead5a485b638bb8b"
 metafile = true
 
 [[files]]
